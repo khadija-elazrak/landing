@@ -1,0 +1,24 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%) , url("../../images/Balloons2.jpg");
+	color: white;
+	padding: 150PX 0PX;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+	text-align: center;font-family : 'Noto+Sans+JP';
+}
+
+.banner h2 {
+	text-align: center;
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.9;
+	margin-bottom: 40px;
+}
+.banner a {
+	text-align: center;
+}
