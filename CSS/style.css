@@ -2,7 +2,7 @@
 @import url("components/container.css") ;
 @import url("components/avatar.css") ;
 @import url("../CSS/components/button.css") ;
-@import url("components/banner.css") ;
+@import url("../CSS/components/banner.css") ;
 @import url("components/card.css") ;
 body{font-family : 'Pacifico', cursive;
  ;font-size: 30PX ;margin : 0px;}
